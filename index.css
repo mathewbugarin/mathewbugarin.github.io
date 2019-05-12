@@ -1,4 +1,7 @@
-﻿body {
+html{
+    scroll-behavior:smooth;
+}
+body {
     background-image: url("https://i.pinimg.com/originals/45/07/f3/4507f3b12a7ea26a235f2aea99f1cb8a.png");
 }
 
@@ -44,6 +47,7 @@
         background: black;
         color: white;
         border: 5px solid white;
+        border-radius: 50%
     }
 
 .nav {
@@ -72,12 +76,14 @@
     padding: 20px 20px;
     text-align: center;
     transition: 0.8s;
+    border-radius: 50%
 }
 
     .school:hover {
         background: black;
         color: white;
         border: 5px solid white;
+        border-radius: 0%
     }
 
 .home {
@@ -91,12 +97,14 @@
     text-align: center;
     transition: 0.8s;
     margin: auto;
+    border-radius: 50%
 }
 
     .home:hover {
         background: black;
         color: white;
         border: 5px solid white;
+        border-radius: 0%
     }
 
 .art {
@@ -110,12 +118,14 @@
     text-align: center;
     transition: 0.8s;
     margin: auto;
+    border-radius: 50%
 }
 
     .art:hover {
         background: black;
         color: white;
         border: 5px solid white;
+        border-radius: 0%
     }
 
 #courses {
@@ -176,7 +186,7 @@
     margin: auto;
 }
 
-.ide1{
+.ide1 {
     height: 300px;
     width: 800px;
     background: white;
@@ -187,12 +197,14 @@
     text-align: center;
     transition: 0.8s;
     margin: auto;
+    border-radius: 50%
 }
-.ide1:hover{
-    background:black;
-    color:white;
-    border:5px solid white;
-}
+    .ide1:hover {
+        background: black;
+        color: white;
+        border: 5px solid white;
+        border-radius: 0%
+    }
 .ide2 {
     height: 300px;
     width: 800px;
@@ -204,13 +216,16 @@
     text-align: center;
     transition: 0.8s;
     margin: auto;
+    border-radius: 50%
 }
 
     .ide2:hover {
         background: black;
         color: white;
         border: 5px solid white;
+        border-radius: 0%
     }
+
 #jg{
     height: 200px;
     width:200px;
@@ -228,12 +243,14 @@
     text-align: center;
     transition: 0.8s;
     margin: auto;
+    border-radius: 50%
 }
 
     .ide3:hover {
         background: black;
         color: white;
         border: 5px solid white;
+        border-radius: 0%
     }
 
 .c1 {
