@@ -1,0 +1,376 @@
+﻿body {
+    background-image: url("https://i.pinimg.com/originals/45/07/f3/4507f3b12a7ea26a235f2aea99f1cb8a.png");
+}
+
+#title {
+    font-family: 'Courier New';
+    background: white;
+    width: 350px;
+    border: 5px solid black;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin:auto;
+}
+
+#title2 {
+    font-family: 'Courier New';
+    background: white;
+    height: 250px;
+    width: 800px;
+    border: 5px solid black;
+    color: black;
+    text-align: center;
+    margin: auto;
+ 
+}
+
+#buttons {
+    text-align: center;
+}
+
+.btn {
+    background: white;
+    color: white;
+    font-family: consolas;
+    border: 2px solid black;
+    width: 300px;
+    padding: 10px 20px;
+    font-size: 20px;
+    transition: 0.8s;
+}
+
+    .btn:hover {
+        background: black;
+        color: white;
+        border: 5px solid white;
+    }
+
+.nav {
+    color: black;
+    text-decoration: none;
+}
+
+    .nav:hover {
+        color: white;
+    }
+
+#about {
+    background: #555;
+    height: 300px;
+    color: white;
+    font-family: calibri;
+}
+
+.school {
+    height: 300px;
+    width: 200px;
+    background: white;
+    font-family: consolas;
+    border: 2px solid black;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    transition: 0.8s;
+}
+
+    .school:hover {
+        background: black;
+        color: white;
+        border: 5px solid white;
+    }
+
+.home {
+    height: 300px;
+    width: 200px;
+    background: white;
+    font-family: consolas;
+    border: 2px solid black;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    transition: 0.8s;
+    margin: auto;
+}
+
+    .home:hover {
+        background: black;
+        color: white;
+        border: 5px solid white;
+    }
+
+.art {
+    height: 300px;
+    width: 200px;
+    background: white;
+    font-family: consolas;
+    border: 2px solid black;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    transition: 0.8s;
+    margin: auto;
+}
+
+    .art:hover {
+        background: black;
+        color: white;
+        border: 5px solid white;
+    }
+
+#courses {
+    font-family: 'Courier New';
+    background: white;
+    width: 350px;
+    border: 5px solid black;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+}
+.fsa {
+    height: 300px;
+    width: 200px;
+    background: white;
+    font-family: consolas;
+    border: 2px solid black;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    transition: 0.8s;
+}
+
+    .fsa:hover {
+        background: black;
+        color: white;
+        border: 5px solid white;
+    }
+
+.java {
+    height: 300px;
+    width: 200px;
+    background: white;
+    font-family: consolas;
+    border: 2px solid black;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    transition: 0.8s;
+    margin: auto;
+}
+
+    .java:hover {
+        background: black;
+        color: white;
+        border: 5px solid white;
+    }
+
+#ide {
+    font-family: 'Courier New';
+    background: white;
+    width: 350px;
+    border: 5px solid black;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+}
+
+.ide1{
+    height: 300px;
+    width: 800px;
+    background: white;
+    font-family: Consolas;
+    border: 2px solid black;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    transition: 0.8s;
+    margin: auto;
+}
+.ide1:hover{
+    background:black;
+    color:white;
+    border:5px solid white;
+}
+.ide2 {
+    height: 300px;
+    width: 800px;
+    background: white;
+    font-family: Consolas;
+    border: 2px solid black;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    transition: 0.8s;
+    margin: auto;
+}
+
+    .ide2:hover {
+        background: black;
+        color: white;
+        border: 5px solid white;
+    }
+#jg{
+    height: 200px;
+    width:200px;
+    background:white;
+}
+
+.ide3 {
+    height: 300px;
+    width: 800px;
+    background: white;
+    font-family: Consolas;
+    border: 2px solid black;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    transition: 0.8s;
+    margin: auto;
+}
+
+    .ide3:hover {
+        background: black;
+        color: white;
+        border: 5px solid white;
+    }
+
+.c1 {
+    height: 300px;
+    width: 200px;
+    background: white;
+    font-family: consolas;
+    border: 2px solid black;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    transition: 0.8s;
+}
+
+    .c1:hover {
+        background: black;
+        color: white;
+        border: 5px solid white;
+    }
+
+.gmbtn {
+    background: white;
+    color: black;
+    font-family: consolas;
+    border: 2px solid black;
+    padding: 5px 5px;
+    font-size: 15px;
+    transition: 0.8s;
+    text-align: center;
+}
+
+    .gmbtn:hover {
+        text-align:center;
+        background: black;
+        color: white;
+        border: 5px solid white;
+    }
+.c2 {
+    height: 300px;
+    width: 200px;
+    background: white;
+    font-family: consolas;
+    border: 2px solid black;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    transition: 0.8s;
+    margin: auto;
+}
+
+    .c2:hover {
+        background: black;
+        color: white;
+        border: 5px solid white;
+    }
+
+.libtn {
+    background: white;
+    color: white;
+    font-family: consolas;
+    border: 2px solid black;
+    padding: 5px 5px;
+    font-size: 20px;
+    transition: 0.8s;
+}
+
+    .libtn:hover {
+        background: black;
+        color: white;
+        border: 5px solid white;
+    }
+
+.c3 {
+    height: 300px;
+    width: 200px;
+    background: white;
+    font-family: consolas;
+    border: 2px solid black;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    transition: 0.8s;
+    margin: auto;
+}
+
+    .c3:hover {
+        background: black;
+        color: white;
+        border: 5px solid white;
+    }
+
+.gitbtn {
+    background: white;
+    color: white;
+    font-family: consolas;
+    border: 2px solid black;
+    padding: 5px 5px;
+    font-size: 20px;
+    transition: 0.8s;
+}
+
+    .gitbtn:hover {
+        background: black;
+        color: white;
+        border: 5px solid white;
+    }
+.c4 {
+    height: 400px;
+    width: 400px;
+    background: white;
+    font-family: consolas;
+    border: 2px solid black;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    transition: 0.8s;
+    margin: auto;
+}
+
+    .c4:hover {
+        background: black;
+        color: white;
+        border: 5px solid white;
+    }
+
+.resbtn {
+    background: white;
+    color: white;
+    font-family: consolas;
+    border: 2px solid black;
+    padding: 5px 5px;
+    font-size: 20px;
+    transition: 0.8s;
+}
+
+    .resbtn:hover {
+        background: black;
+        color: white;
+        border: 5px solid white;
+    }
