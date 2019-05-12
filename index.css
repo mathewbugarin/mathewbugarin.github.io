@@ -267,11 +267,17 @@ body {
         background: black;
         color: white;
         border: 5px solid white;
+        animation-fill-mode: forwards;
     }
 
-.j2 {
+#j2 {
     color: black;
+    background: white;
+    padding: 1px;
+    width: 400px;
+    margin: auto;
 }
+
 
 .c1 {
     height: 300px;
