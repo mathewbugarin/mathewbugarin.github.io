@@ -197,13 +197,12 @@ body {
     text-align: center;
     transition: 0.8s;
     margin: auto;
-    border-radius: 50%
 }
     .ide1:hover {
         background: black;
         color: white;
         border: 5px solid white;
-        border-radius: 0%
+        border-radius: 50%
     }
 .ide2 {
     height: 300px;
@@ -216,14 +215,13 @@ body {
     text-align: center;
     transition: 0.8s;
     margin: auto;
-    border-radius: 50%
 }
 
     .ide2:hover {
         background: black;
         color: white;
         border: 5px solid white;
-        border-radius: 0%
+        border-radius: 50%
     }
 
 #jg{
@@ -243,15 +241,35 @@ body {
     text-align: center;
     transition: 0.8s;
     margin: auto;
-    border-radius: 50%
 }
 
     .ide3:hover {
         background: black;
         color: white;
         border: 5px solid white;
-        border-radius: 0%
+        border-radius: 50%
     }
+
+.j1 {
+    height: 350px;
+    width: 800px;
+    background: white;
+    font-family: Consolas;
+    border: 2px solid black;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    transition: 0.8s;
+    margin: auto;
+}
+
+    .j1:hover {
+        background: black;
+        color: white;
+        border: 5px solid white;
+    }
+
+
 
 .c1 {
     height: 300px;
