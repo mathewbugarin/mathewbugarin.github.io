@@ -76,7 +76,7 @@ body {
     padding: 20px 20px;
     text-align: center;
     transition: 0.8s;
-    border-radius: 50%
+    border-radius: 46%
 }
 
     .school:hover {
@@ -97,7 +97,7 @@ body {
     text-align: center;
     transition: 0.8s;
     margin: auto;
-    border-radius: 50%
+    border-radius: 46%
 }
 
     .home:hover {
@@ -118,7 +118,7 @@ body {
     text-align: center;
     transition: 0.8s;
     margin: auto;
-    border-radius: 50%
+    border-radius: 46%
 }
 
     .art:hover {
@@ -128,20 +128,24 @@ body {
         border-radius: 0%
     }
 
-.titleme{
+#titleme {
     font-family: 'Courier New';
     background: white;
     border: 5px solid black;
+    padding: 5px 5px;
+    width: 300px;
     color: black;
     text-align: center;
     margin: auto;
 }
 
 .aboutme{
-    height: 500px;
-    width: 500px;
+    height: 600px;
+    width: 700px;
+    border: 5px solid black;
     background: white;
     color: black;
+    text-align: center;
     margin: auto;
 }
 
